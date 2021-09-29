@@ -1,0 +1,8 @@
+-o Makefile
+-I Lib 
+-I Semantics
+-I ALEA
+ALEA
+Lib
+Semantics
+Examples

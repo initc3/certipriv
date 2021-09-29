@@ -1,0 +1,5 @@
+-o Makefile
+-I ../../ALEA -I ../../Lib -I ../../Semantics
+Graph.v
+Extension.v
+Proof.v
